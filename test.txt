@@ -1,6 +1,5 @@
 nội dung test
-<<<<<<< HEAD
+
 branch tris them vo dong nay
-=======
+
 tram da sua dong nay
->>>>>>> tram
